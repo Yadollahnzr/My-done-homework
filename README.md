@@ -1,4 +1,4 @@
-# My-done-homework
+# Homework answers
 In this repository is placed answers of homeworks that there are in https://github.com/Alireza-Akhavan/SRU-deeplearning-workshop/tree/master/homework
 In this homeworks, questions are written in persian.
 # answers:
