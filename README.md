@@ -1,6 +1,6 @@
 # Homework answers
-In this repository is placed answers of homeworks that there are in https://github.com/Alireza-Akhavan/SRU-deeplearning-workshop/tree/master/homework
-In this homeworks, questions are written in persian.
+In this repository is placed answers of questions that are in https://github.com/Alireza-Akhavan/SRU-deeplearning-workshop/tree/master/homework
+<br>In this homework, questions are written in persian.
 # answers:
   question 1:
     <br>part 1.https://github.com/Yadollahnzr/My-done-homework/blob/main/Copy_of_ex1_mlp_iris.ipynb
